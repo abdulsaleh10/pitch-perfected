@@ -2,7 +2,7 @@
 
 Thank you for choosing PitchPerfected - your ultimate destination for all things football! This README will guide you through our premier web platform, highlighting its features, functionalities, and how to get started with the codebase.
 
-## About PitchPerfected
+## Website URL
 
 https://www.pitchperfected.net/
 
