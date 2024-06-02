@@ -14,6 +14,7 @@ PitchPerfected is a comprehensive web platform designed to provide real-time sco
 
 [![Watch the Video](https://img.youtube.com/vi/UNREUe-BRjo/0.jpg)](https://www.youtube.com/watch?v=UNREUe-BRjo)
 
+https://www.youtube.com/watch?v=UNREUe-BRjo
 ## Key Features
 
 ### Real-Time Scores and Standings
